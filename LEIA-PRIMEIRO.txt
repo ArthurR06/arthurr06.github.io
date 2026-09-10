@@ -1,0 +1,66 @@
+PORTFÓLIO DE ARTHUR GOMES RODRIGUES DE LIMA
+
+1. ABRIR O SITE AGORA
+
+Extraia todo o ZIP.
+Abra a pasta portfolio-arthur.
+Clique duas vezes no arquivo index.html.
+
+Mantenha a pasta assets no mesmo lugar. Ela contém o visual, as interações,
+o ícone e o currículo em PDF.
+
+O site abre no navegador sem instalar programas ou iniciar servidores.
+
+2. COLOCAR NO GITHUB PELO NAVEGADOR
+
+Acesse sua conta ArthurR06 e crie um repositório público chamado:
+ArthurR06.github.io
+
+Se esse repositório já existir com outro site que deseja manter,
+crie um repositório chamado portfolio.
+
+Na página do repositório, use a opção de enviar arquivos:
+"uploading an existing file" ou "Add file > Upload files".
+
+Envie o CONTEÚDO da pasta portfolio-arthur, incluindo index.html e assets.
+O index.html deve aparecer na primeira tela do repositório, junto de assets.
+
+Clique em Commit changes para salvar.
+
+Depois acesse Settings > Pages e selecione:
+Source: Deploy from a branch
+Branch: main
+Folder: /(root)
+Clique em Save.
+
+Aguarde o GitHub exibir o endereço publicado.
+Deixe Custom domain em branco ao utilizar o endereço padrão do GitHub.
+
+O endereço do repositório pessoal será:
+https://arthurr06.github.io/
+
+Se usar o nome portfolio, será:
+https://arthurr06.github.io/portfolio/
+
+3. ATUALIZAR O CONTEÚDO
+
+Edite index.html para alterar os textos, projetos e contatos.
+Edite assets/styles.css para alterar as cores e o visual.
+
+O currículo está em assets/curriculo-arthur.pdf.
+Sua versão em texto editável está em docs/CURRICULO.md.
+
+O README.md explica os arquivos e as personalizações.
+
+4. SE O SITE NÃO APARECER
+
+Confira se o index.html está na raiz do repositório.
+Confira se a pasta assets foi enviada inteira.
+Confira se Pages está usando a branch main e a pasta /(root).
+Veja a aba Actions para acompanhar a publicação e eventuais erros.
+
+Documentação oficial:
+https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+O arquivo ZIP é o pacote para baixar e guardar. Para publicar,
+envie os arquivos extraídos dele ao repositório.
