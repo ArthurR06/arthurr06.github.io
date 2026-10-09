@@ -29,5 +29,6 @@ Não é necessário instalar dependências ou iniciar um servidor.
 
 * [E-mail](mailto:arthurrodrigues.lima@gmail.com)
 * [GitHub](https://github.com/ArthurR06)
+* [LinkedIn](https://www.linkedin.com/in/arthur-g-r-lima-635155225/)
 * [Currículo em PDF](assets/curriculo-arthur.pdf)
 
